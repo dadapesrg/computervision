@@ -1,0 +1,143 @@
+data/obj_train_data/Automatic Rifle_13.jpeg
+data/obj_train_data/Automatic Rifle_19.jpeg
+data/obj_train_data/Automatic Rifle_28.png
+data/obj_train_data/Automatic Rifle_35.jpeg
+data/obj_train_data/Automatic Rifle_40.jpeg
+data/obj_train_data/Automatic Rifle_41.png
+data/obj_train_data/Automatic Rifle_42.jpeg
+data/obj_train_data/Automatic Rifle_43.png
+data/obj_train_data/Automatic Rifle_50.jpeg
+data/obj_train_data/Automatic Rifle_54.jpeg
+data/obj_train_data/Automatic Rifle_62.jpeg
+data/obj_train_data/Automatic Rifle_70.jpeg
+data/obj_train_data/Automatic Rifle_77.jpeg
+data/obj_train_data/Automatic Rifle_81.jpeg
+data/obj_train_data/Automatic Rifle_9.jpeg
+data/obj_train_data/Bazooka_18.jpeg
+data/obj_train_data/Bazooka_37.jpeg
+data/obj_train_data/Bazooka_44.jpeg
+data/obj_train_data/Bazooka_47.jpeg
+data/obj_train_data/Bazooka_59.jpeg
+data/obj_train_data/Bazooka_70.jpeg
+data/obj_train_data/Bazooka_71.jpeg
+data/obj_train_data/Bazooka_72.jpeg
+data/obj_train_data/Bazooka_74.jpeg
+data/obj_train_data/Bazooka_76.png
+data/obj_train_data/Bazooka_78.jpeg
+data/obj_train_data/Bazooka_82.jpeg
+data/obj_train_data/Bazooka_86.jpeg
+data/obj_train_data/Grenade Launcher_100.png
+data/obj_train_data/Grenade Launcher_13.jpeg
+data/obj_train_data/Grenade Launcher_20.jpeg
+data/obj_train_data/Grenade Launcher_21.jpeg
+data/obj_train_data/Grenade Launcher_22.jpeg
+data/obj_train_data/Grenade Launcher_25.jpeg
+data/obj_train_data/Grenade Launcher_26.jpeg
+data/obj_train_data/Grenade Launcher_34.jpeg
+data/obj_train_data/Grenade Launcher_35.jpeg
+data/obj_train_data/Grenade Launcher_4.jpeg
+data/obj_train_data/Grenade Launcher_42.jpeg
+data/obj_train_data/Grenade Launcher_47.jpeg
+data/obj_train_data/Grenade Launcher_62.jpeg
+data/obj_train_data/Grenade Launcher_75.jpeg
+data/obj_train_data/Grenade Launcher_78.jpeg
+data/obj_train_data/Grenade Launcher_83.jpeg
+data/obj_train_data/Grenade Launcher_93.jpeg
+data/obj_train_data/Grenade Launcher_99.png
+data/obj_train_data/Handgun_13.jpeg
+data/obj_train_data/Handgun_14.jpeg
+data/obj_train_data/Handgun_19.jpeg
+data/obj_train_data/Handgun_22.jpeg
+data/obj_train_data/Handgun_27.jpeg
+data/obj_train_data/Handgun_31.jpeg
+data/obj_train_data/Handgun_32.jpeg
+data/obj_train_data/Handgun_36.jpeg
+data/obj_train_data/Handgun_44.jpeg
+data/obj_train_data/Handgun_5.jpeg
+data/obj_train_data/Handgun_76.jpeg
+data/obj_train_data/Handgun_81.jpeg
+data/obj_train_data/Handgun_92.png
+data/obj_train_data/Handgun_99.jpeg
+data/obj_train_data/Knife_11.jpeg
+data/obj_train_data/Knife_18.jpeg
+data/obj_train_data/Knife_19.jpeg
+data/obj_train_data/Knife_24.jpeg
+data/obj_train_data/Knife_36.jpeg
+data/obj_train_data/Knife_38.jpeg
+data/obj_train_data/Knife_53.jpeg
+data/obj_train_data/Knife_60.jpeg
+data/obj_train_data/Knife_66.jpeg
+data/obj_train_data/Knife_75.jpeg
+data/obj_train_data/Knife_76.jpeg
+data/obj_train_data/Knife_90.jpeg
+data/obj_train_data/Knife_92.png
+data/obj_train_data/Knife_93.jpeg
+data/obj_train_data/SMG_11.jpeg
+data/obj_train_data/SMG_16.jpeg
+data/obj_train_data/SMG_19.jpeg
+data/obj_train_data/SMG_22.jpeg
+data/obj_train_data/SMG_31.jpeg
+data/obj_train_data/SMG_33.jpeg
+data/obj_train_data/SMG_38.jpeg
+data/obj_train_data/SMG_53.jpeg
+data/obj_train_data/SMG_55.jpeg
+data/obj_train_data/SMG_56.png
+data/obj_train_data/SMG_80.jpeg
+data/obj_train_data/SMG_81.jpeg
+data/obj_train_data/SMG_83.jpeg
+data/obj_train_data/SMG_86.jpeg
+data/obj_train_data/SMG_9.jpeg
+data/obj_train_data/SMG_90.png
+data/obj_train_data/SMG_95.jpeg
+data/obj_train_data/Shotgun_15.jpeg
+data/obj_train_data/Shotgun_16.jpeg
+data/obj_train_data/Shotgun_33.jpeg
+data/obj_train_data/Shotgun_35.jpeg
+data/obj_train_data/Shotgun_43.jpeg
+data/obj_train_data/Shotgun_44.jpeg
+data/obj_train_data/Shotgun_46.jpeg
+data/obj_train_data/Shotgun_53.jpeg
+data/obj_train_data/Shotgun_57.jpeg
+data/obj_train_data/Shotgun_59.jpeg
+data/obj_train_data/Shotgun_64.jpeg
+data/obj_train_data/Shotgun_67.png
+data/obj_train_data/Shotgun_73.png
+data/obj_train_data/Shotgun_87.jpeg
+data/obj_train_data/Shotgun_9.jpeg
+data/obj_train_data/Shotgun_93.jpeg
+data/obj_train_data/Sniper_11.jpeg
+data/obj_train_data/Sniper_12.jpeg
+data/obj_train_data/Sniper_13.jpeg
+data/obj_train_data/Sniper_14.jpeg
+data/obj_train_data/Sniper_15.jpeg
+data/obj_train_data/Sniper_18.jpeg
+data/obj_train_data/Sniper_22.jpeg
+data/obj_train_data/Sniper_3.jpeg
+data/obj_train_data/Sniper_36.jpeg
+data/obj_train_data/Sniper_50.jpeg
+data/obj_train_data/Sniper_6.jpeg
+data/obj_train_data/Sniper_60.jpeg
+data/obj_train_data/Sniper_72.jpeg
+data/obj_train_data/Sniper_75.jpeg
+data/obj_train_data/Sniper_78.jpeg
+data/obj_train_data/Sniper_89.jpeg
+data/obj_train_data/Sniper_95.jpeg
+data/obj_train_data/Sniper_98.jpeg
+data/obj_train_data/Sword_12.jpeg
+data/obj_train_data/Sword_16.jpeg
+data/obj_train_data/Sword_21.png
+data/obj_train_data/Sword_34.jpeg
+data/obj_train_data/Sword_4.jpeg
+data/obj_train_data/Sword_50.jpeg
+data/obj_train_data/Sword_59.png
+data/obj_train_data/Sword_67.jpeg
+data/obj_train_data/Sword_7.jpeg
+data/obj_train_data/Sword_77.jpeg
+data/obj_train_data/Sword_81.jpeg
+data/obj_train_data/Sword_83.jpeg
+data/obj_train_data/Sword_84.jpeg
+data/obj_train_data/Sword_86.jpeg
+data/obj_train_data/Sword_89.jpeg
+data/obj_train_data/Sword_9.jpeg
+data/obj_train_data/Sword_96.jpeg
+data/obj_train_data/Sword_99.jpeg
