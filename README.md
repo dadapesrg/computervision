@@ -1,11 +1,10 @@
-This is a repository by Power and Energy Systems Research Group with the following members:
+This is one of the repositories of the Power and Energy Systems Research Group (PESRG). The Security Surveillance Research Project is foucsed on using computer vision to solve security challenges in real-time. The Computer Vision Team members are:
 1. Joseph O. Dada - Group Leader
 2. Ayodeji O. Salau
 3. Adeayo O. Adegbesan
 4. Divine Adjeroh
    
-Computer vision is one of the focused research areas of the PESRG.
-The Security Surveillance project is foucsed on using computer vision to solve security challenges in real-time. The project code directory consists of the following components:
+The Security Surveillance project code directory consists of the following components:
 1. Templates: Which has the webpages that can be accessed through the main Python flask code
 2. Data: The data set that was used for the model training with their given labels you can replace this with every dataset you have available. The sound playback file is also here
 3. Video: You can store any video for testing here. The output is also stored here
